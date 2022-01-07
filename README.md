@@ -1,2 +1,2 @@
-# Java-Script---Exercises
+# Java-Script- Exercises
 Exercises done using JS - Studying
